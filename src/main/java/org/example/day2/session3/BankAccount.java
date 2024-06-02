@@ -1,4 +1,4 @@
-package session3;
+package org.example.day2.session3;
 
 public class BankAccount {
 

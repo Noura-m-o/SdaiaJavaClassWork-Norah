@@ -1,8 +1,4 @@
-package Session2;
-
-import org.example.MyMethods;
-
-import java.util.Scanner;
+package org.example.day2.Session2;
 
 public class MainEmployee {
     public static void main(String[] args) {

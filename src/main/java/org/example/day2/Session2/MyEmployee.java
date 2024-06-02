@@ -1,7 +1,4 @@
-package Session2;
-
-import java.util.Date;
-import java.util.Locale;
+package org.example.day2.Session2;
 
 public class MyEmployee {
 
